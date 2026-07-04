@@ -1,5 +1,5 @@
 # 🎨 Aura Pro - Color Library for After Effects
-
+<img width="260" height="158" alt="Captura de pantalla 2026-07-04 002249" src="https://github.com/user-attachments/assets/eb9275b1-7a5a-46ca-b9a6-19b1f7d37669" />
 **Aura Pro** es un gestor avanzado de paletas de colores diseñado para optimizar tu flujo creativo en Adobe After Effects. Organiza, extrae y aplica colores de manera inteligente.
 
 ---
