@@ -1,3 +1,13 @@
+/*
+Â© Mateo Crespo (Animateo)
+
+Puedes usar este plugin libremente.
+No puedes venderlo, redistribuirlo ni publicar versiones modificadas.
+
+Â¿Encontraste una mejora o correcciÃ³n?
+Por favor, compÃ¡rtela con el autor.
+*/
+
 // @target aftereffects
 /**
  * Aura Pro v19.1 - Picker AE sin capas residuales ni ventanas extra
