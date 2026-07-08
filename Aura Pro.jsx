@@ -1,11 +1,11 @@
 ﻿/*
-© Mateo Crespo (Animateo)
+Â© Mateo Crespo (Animateo)
 
 Puedes usar este plugin libremente.
 No puedes venderlo, redistribuirlo ni publicar versiones modificadas.
 
-¿Encontraste una mejora o corrección?
-Por favor, compártela con el autor.
+Â¿Encontraste una mejora o correcciÃ³n?
+Por favor, compÃ¡rtela con el autor.
 */
 // @target aftereffects
 /**
